@@ -1,0 +1,1 @@
+Song.create(title: "Thunder", released: true, release_year: 2000, artist_name: "ACDC", genre: "rock" )
